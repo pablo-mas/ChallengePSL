@@ -1,4 +1,3 @@
-data/CHRM2/y_test.csv
-data/CSTSL/y_test.csv
-data/VEGFR2/y_test.csv
 notebooks/data/bindingdb_ic50.csv
+sandbox/
+data/y_test.csv
